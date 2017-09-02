@@ -1,4 +1,5 @@
 ## FTM2GBMC: *Make Game Boy Music in FamiTracker* [![Build Status](https://travis-ci.org/Savestate2A03/FTM2GBMC.svg?branch=master)](https://travis-ci.org/Savestate2A03/FTM2GBMC)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsuperusercode%2FFTM2GBMC.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsuperusercode%2FFTM2GBMC?ref=badge_shield)
 
 #### Welcome
 
@@ -206,3 +207,7 @@ Reminder, as with all effects, using an `Hxx` command will reset the volume enve
 ##### GBS Playback Support for Hxx
 
 As this is a hardware feature not supported by most GBS players, I suggest using [nezplug++](http://offgao.net/program/nezplug++.html)! It seemed to play the file back correctly. foo_gep however, **does not**!!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsuperusercode%2FFTM2GBMC.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsuperusercode%2FFTM2GBMC?ref=badge_large)
